@@ -1,2 +1,2 @@
 # UTPC-Desarrollo-de-Software-4
-En este repositorio se pondran los 4 programas usando las sentencias selectivas de 
+This is a Github repository of Class Desarrollo de Software 4
