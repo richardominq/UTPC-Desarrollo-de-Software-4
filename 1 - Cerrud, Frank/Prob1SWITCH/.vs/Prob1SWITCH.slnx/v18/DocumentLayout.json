@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\1 - Cerrud, Frank\\Prob1SWITCH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFF0D52-7FB6-4849-BFBF-9D578DA671C3}|Prob1SWITCH\\Prob1SWITCH.csproj|c:\\users\\usuario\\onedrive\\documentos\\des soft 4\\1 - cerrud, frank\\prob1switch\\prob1switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFF0D52-7FB6-4849-BFBF-9D578DA671C3}|Prob1SWITCH\\Prob1SWITCH.csproj|solutionrelative:prob1switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\1 - Cerrud, Frank\\Prob1SWITCH\\Prob1SWITCH\\Program.cs",
+              "RelativeDocumentMoniker": "Prob1SWITCH\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\1 - Cerrud, Frank\\Prob1SWITCH\\Prob1SWITCH\\Program.cs",
+              "RelativeToolTip": "Prob1SWITCH\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T13:57:10.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
