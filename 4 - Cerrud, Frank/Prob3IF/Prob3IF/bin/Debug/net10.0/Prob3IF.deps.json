@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Prob3IF/1.0.0": {
+        "runtime": {
+          "Prob3IF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prob3IF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
