@@ -1,0 +1,15 @@
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\bin\Debug\net10.0\Programa02_IF.exe
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\bin\Debug\net10.0\Programa02_IF.deps.json
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\bin\Debug\net10.0\Programa02_IF.runtimeconfig.json
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\bin\Debug\net10.0\Programa02_IF.dll
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\bin\Debug\net10.0\Programa02_IF.pdb
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\obj\Debug\net10.0\Programa02_IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\obj\Debug\net10.0\Programa02_IF.AssemblyInfoInputs.cache
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\obj\Debug\net10.0\Programa02_IF.AssemblyInfo.cs
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\obj\Debug\net10.0\Programa02_IF.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\obj\Debug\net10.0\Programa02_IF.dll
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\obj\Debug\net10.0\refint\Programa02_IF.dll
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\obj\Debug\net10.0\Programa02_IF.pdb
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\obj\Debug\net10.0\Programa02_IF.genruntimeconfig.cache
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\obj\Debug\net10.0\ref\Programa02_IF.dll
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa02_IF\obj\Debug\net10.0\Programa.DBA0081C.Up2Date

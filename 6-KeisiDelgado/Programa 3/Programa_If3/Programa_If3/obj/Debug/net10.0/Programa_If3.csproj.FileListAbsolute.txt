@@ -1,0 +1,14 @@
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\bin\Debug\net10.0\Programa_If3.exe
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\bin\Debug\net10.0\Programa_If3.deps.json
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\bin\Debug\net10.0\Programa_If3.runtimeconfig.json
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\bin\Debug\net10.0\Programa_If3.dll
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\bin\Debug\net10.0\Programa_If3.pdb
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\obj\Debug\net10.0\Programa_If3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\obj\Debug\net10.0\Programa_If3.AssemblyInfoInputs.cache
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\obj\Debug\net10.0\Programa_If3.AssemblyInfo.cs
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\obj\Debug\net10.0\Programa_If3.csproj.CoreCompileInputs.cache
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\obj\Debug\net10.0\Programa_If3.dll
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\obj\Debug\net10.0\refint\Programa_If3.dll
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\obj\Debug\net10.0\Programa_If3.pdb
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\obj\Debug\net10.0\Programa_If3.genruntimeconfig.cache
+C:\Users\Keisi Delgado\source\repos\Programa_If3\Programa_If3\obj\Debug\net10.0\ref\Programa_If3.dll

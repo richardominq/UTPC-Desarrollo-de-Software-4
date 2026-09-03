@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "P3_Switch": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
