@@ -1,0 +1,14 @@
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\bin\Debug\net10.0\Programa03_SWITCH.exe
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\bin\Debug\net10.0\Programa03_SWITCH.deps.json
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\bin\Debug\net10.0\Programa03_SWITCH.runtimeconfig.json
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\bin\Debug\net10.0\Programa03_SWITCH.dll
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\bin\Debug\net10.0\Programa03_SWITCH.pdb
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\obj\Debug\net10.0\Programa03_SWITCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\obj\Debug\net10.0\Programa03_SWITCH.AssemblyInfoInputs.cache
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\obj\Debug\net10.0\Programa03_SWITCH.AssemblyInfo.cs
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\obj\Debug\net10.0\Programa03_SWITCH.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\obj\Debug\net10.0\Programa03_SWITCH.dll
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\obj\Debug\net10.0\refint\Programa03_SWITCH.dll
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\obj\Debug\net10.0\Programa03_SWITCH.pdb
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\obj\Debug\net10.0\Programa03_SWITCH.genruntimeconfig.cache
+C:\Users\VICTUS15FB\Documents\Software_4\Actividad\Programa03_SWITCH\obj\Debug\net10.0\ref\Programa03_SWITCH.dll
