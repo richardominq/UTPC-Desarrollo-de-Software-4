@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prob3SWITCH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8245c0f7dd569f32de98bf724057e91880bad1a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prob3SWITCH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prob3SWITCH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
