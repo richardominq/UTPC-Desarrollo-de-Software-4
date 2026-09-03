@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Program#4_switch/1.0.0": {
+        "runtime": {
+          "Program#4_switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Program#4_switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

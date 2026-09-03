@@ -1,0 +1,14 @@
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\bin\Debug\net10.0\Programa#2_switch.exe
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\bin\Debug\net10.0\Programa#2_switch.deps.json
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\bin\Debug\net10.0\Programa#2_switch.runtimeconfig.json
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\bin\Debug\net10.0\Programa#2_switch.dll
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\bin\Debug\net10.0\Programa#2_switch.pdb
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\obj\Debug\net10.0\Programa#2_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\obj\Debug\net10.0\Programa#2_switch.AssemblyInfoInputs.cache
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\obj\Debug\net10.0\Programa#2_switch.AssemblyInfo.cs
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\obj\Debug\net10.0\Programa#2_switch.csproj.CoreCompileInputs.cache
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\obj\Debug\net10.0\Programa#2_switch.dll
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\obj\Debug\net10.0\refint\Programa#2_switch.dll
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\obj\Debug\net10.0\Programa#2_switch.pdb
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\obj\Debug\net10.0\Programa#2_switch.genruntimeconfig.cache
+C:\Users\rtorr\Documents\Proyectos Sof4\Programa#2_switch\Programa#2_switch\obj\Debug\net10.0\ref\Programa#2_switch.dll

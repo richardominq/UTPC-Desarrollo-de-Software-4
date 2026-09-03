@@ -1,0 +1,14 @@
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\bin\Debug\net10.0\Program#2_if.exe
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\bin\Debug\net10.0\Program#2_if.deps.json
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\bin\Debug\net10.0\Program#2_if.runtimeconfig.json
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\bin\Debug\net10.0\Program#2_if.dll
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\bin\Debug\net10.0\Program#2_if.pdb
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\obj\Debug\net10.0\Program#2_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\obj\Debug\net10.0\Program#2_if.AssemblyInfoInputs.cache
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\obj\Debug\net10.0\Program#2_if.AssemblyInfo.cs
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\obj\Debug\net10.0\Program#2_if.csproj.CoreCompileInputs.cache
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\obj\Debug\net10.0\Program#2_if.dll
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\obj\Debug\net10.0\refint\Program#2_if.dll
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\obj\Debug\net10.0\Program#2_if.pdb
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\obj\Debug\net10.0\Program#2_if.genruntimeconfig.cache
+C:\Users\rtorr\Documents\Proyectos Sof4\Program#2_if\Program#2_if\obj\Debug\net10.0\ref\Program#2_if.dll
