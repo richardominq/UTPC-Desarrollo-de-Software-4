@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Venta_de_combustible_Programa2Adalberto": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

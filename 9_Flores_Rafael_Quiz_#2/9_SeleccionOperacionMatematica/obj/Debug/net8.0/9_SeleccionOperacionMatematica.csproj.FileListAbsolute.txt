@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\bin\Debug\net8.0\9_SeleccionOperacionMatematica.exe
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\bin\Debug\net8.0\9_SeleccionOperacionMatematica.deps.json
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\bin\Debug\net8.0\9_SeleccionOperacionMatematica.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\bin\Debug\net8.0\9_SeleccionOperacionMatematica.dll
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\bin\Debug\net8.0\9_SeleccionOperacionMatematica.pdb
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\obj\Debug\net8.0\9_SeleccionOperacionMatematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\obj\Debug\net8.0\9_SeleccionOperacionMatematica.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\obj\Debug\net8.0\9_SeleccionOperacionMatematica.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\obj\Debug\net8.0\9_SeleccionOperacionMatematica.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\obj\Debug\net8.0\9_SeleccionOperacionMatematica.dll
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\obj\Debug\net8.0\refint\9_SeleccionOperacionMatematica.dll
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\obj\Debug\net8.0\9_SeleccionOperacionMatematica.pdb
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\obj\Debug\net8.0\9_SeleccionOperacionMatematica.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\9_SeleccionOperacionMatematica\obj\Debug\net8.0\ref\9_SeleccionOperacionMatematica.dll
