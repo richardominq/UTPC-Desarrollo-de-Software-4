@@ -1,0 +1,14 @@
+C:\Users\corne\source\repos\EvaluacionPrestamos\bin\Debug\net10.0\EvaluacionPrestamos.exe
+C:\Users\corne\source\repos\EvaluacionPrestamos\bin\Debug\net10.0\EvaluacionPrestamos.deps.json
+C:\Users\corne\source\repos\EvaluacionPrestamos\bin\Debug\net10.0\EvaluacionPrestamos.runtimeconfig.json
+C:\Users\corne\source\repos\EvaluacionPrestamos\bin\Debug\net10.0\EvaluacionPrestamos.dll
+C:\Users\corne\source\repos\EvaluacionPrestamos\bin\Debug\net10.0\EvaluacionPrestamos.pdb
+C:\Users\corne\source\repos\EvaluacionPrestamos\obj\Debug\net10.0\EvaluacionPrestamos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\source\repos\EvaluacionPrestamos\obj\Debug\net10.0\EvaluacionPrestamos.AssemblyInfoInputs.cache
+C:\Users\corne\source\repos\EvaluacionPrestamos\obj\Debug\net10.0\EvaluacionPrestamos.AssemblyInfo.cs
+C:\Users\corne\source\repos\EvaluacionPrestamos\obj\Debug\net10.0\EvaluacionPrestamos.csproj.CoreCompileInputs.cache
+C:\Users\corne\source\repos\EvaluacionPrestamos\obj\Debug\net10.0\EvaluacionPrestamos.dll
+C:\Users\corne\source\repos\EvaluacionPrestamos\obj\Debug\net10.0\refint\EvaluacionPrestamos.dll
+C:\Users\corne\source\repos\EvaluacionPrestamos\obj\Debug\net10.0\EvaluacionPrestamos.pdb
+C:\Users\corne\source\repos\EvaluacionPrestamos\obj\Debug\net10.0\EvaluacionPrestamos.genruntimeconfig.cache
+C:\Users\corne\source\repos\EvaluacionPrestamos\obj\Debug\net10.0\ref\EvaluacionPrestamos.dll
