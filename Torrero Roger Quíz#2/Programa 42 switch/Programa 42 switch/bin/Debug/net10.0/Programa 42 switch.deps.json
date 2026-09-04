@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Programa 42 switch/1.0.0": {
+        "runtime": {
+          "Programa 42 switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa 42 switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
