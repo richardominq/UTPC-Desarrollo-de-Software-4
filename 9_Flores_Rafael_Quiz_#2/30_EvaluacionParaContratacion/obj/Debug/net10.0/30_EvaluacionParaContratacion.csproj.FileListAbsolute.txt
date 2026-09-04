@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\bin\Debug\net10.0\30_EvaluacionParaContratacion.exe
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\bin\Debug\net10.0\30_EvaluacionParaContratacion.deps.json
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\bin\Debug\net10.0\30_EvaluacionParaContratacion.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\bin\Debug\net10.0\30_EvaluacionParaContratacion.dll
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\bin\Debug\net10.0\30_EvaluacionParaContratacion.pdb
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\obj\Debug\net10.0\30_EvaluacionParaContratacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\obj\Debug\net10.0\30_EvaluacionParaContratacion.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\obj\Debug\net10.0\30_EvaluacionParaContratacion.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\obj\Debug\net10.0\30_EvaluacionParaContratacion.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\obj\Debug\net10.0\30_EvaluacionParaContratacion.dll
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\obj\Debug\net10.0\refint\30_EvaluacionParaContratacion.dll
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\obj\Debug\net10.0\30_EvaluacionParaContratacion.pdb
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\obj\Debug\net10.0\30_EvaluacionParaContratacion.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\9_Flores_Rafael_Quiz_#2\30_EvaluacionParaContratacion\obj\Debug\net10.0\ref\30_EvaluacionParaContratacion.dll
