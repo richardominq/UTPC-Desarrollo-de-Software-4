@@ -1,0 +1,14 @@
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\bin\Debug\net10.0\VehiculoCre.exe
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\bin\Debug\net10.0\VehiculoCre.deps.json
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\bin\Debug\net10.0\VehiculoCre.runtimeconfig.json
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\bin\Debug\net10.0\VehiculoCre.dll
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\bin\Debug\net10.0\VehiculoCre.pdb
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\obj\Debug\net10.0\VehiculoCre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\obj\Debug\net10.0\VehiculoCre.AssemblyInfoInputs.cache
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\obj\Debug\net10.0\VehiculoCre.AssemblyInfo.cs
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\obj\Debug\net10.0\VehiculoCre.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\obj\Debug\net10.0\VehiculoCre.dll
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\obj\Debug\net10.0\refint\VehiculoCre.dll
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\obj\Debug\net10.0\VehiculoCre.pdb
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\obj\Debug\net10.0\VehiculoCre.genruntimeconfig.cache
+C:\Users\Estudiantes\Desktop\Program_An\VehiculoCre\VehiculoCre\obj\Debug\net10.0\ref\VehiculoCre.dll
