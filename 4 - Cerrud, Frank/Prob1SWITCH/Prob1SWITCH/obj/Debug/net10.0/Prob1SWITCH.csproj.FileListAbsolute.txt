@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\bin\Debug\net10.0\Prob1SWITCH.exe
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\bin\Debug\net10.0\Prob1SWITCH.deps.json
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\bin\Debug\net10.0\Prob1SWITCH.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\bin\Debug\net10.0\Prob1SWITCH.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\bin\Debug\net10.0\Prob1SWITCH.pdb
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\obj\Debug\net10.0\Prob1SWITCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\obj\Debug\net10.0\Prob1SWITCH.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\obj\Debug\net10.0\Prob1SWITCH.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\obj\Debug\net10.0\Prob1SWITCH.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\obj\Debug\net10.0\Prob1SWITCH.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\obj\Debug\net10.0\refint\Prob1SWITCH.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\obj\Debug\net10.0\Prob1SWITCH.pdb
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\obj\Debug\net10.0\Prob1SWITCH.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1SWITCH\Prob1SWITCH\obj\Debug\net10.0\ref\Prob1SWITCH.dll

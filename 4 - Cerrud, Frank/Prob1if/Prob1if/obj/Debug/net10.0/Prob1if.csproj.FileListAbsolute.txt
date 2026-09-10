@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\bin\Debug\net10.0\Prob1if.exe
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\bin\Debug\net10.0\Prob1if.deps.json
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\bin\Debug\net10.0\Prob1if.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\bin\Debug\net10.0\Prob1if.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\bin\Debug\net10.0\Prob1if.pdb
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\obj\Debug\net10.0\Prob1if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\obj\Debug\net10.0\Prob1if.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\obj\Debug\net10.0\Prob1if.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\obj\Debug\net10.0\Prob1if.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\obj\Debug\net10.0\Prob1if.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\obj\Debug\net10.0\refint\Prob1if.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\obj\Debug\net10.0\Prob1if.pdb
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\obj\Debug\net10.0\Prob1if.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\1 - Cerrud, Frank\Prob1if\Prob1if\obj\Debug\net10.0\ref\Prob1if.dll

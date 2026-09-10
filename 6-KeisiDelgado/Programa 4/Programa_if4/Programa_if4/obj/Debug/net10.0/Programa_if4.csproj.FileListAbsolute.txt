@@ -1,0 +1,14 @@
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\bin\Debug\net10.0\Programa_if4.exe
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\bin\Debug\net10.0\Programa_if4.deps.json
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\bin\Debug\net10.0\Programa_if4.runtimeconfig.json
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\bin\Debug\net10.0\Programa_if4.dll
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\bin\Debug\net10.0\Programa_if4.pdb
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\obj\Debug\net10.0\Programa_if4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\obj\Debug\net10.0\Programa_if4.AssemblyInfoInputs.cache
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\obj\Debug\net10.0\Programa_if4.AssemblyInfo.cs
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\obj\Debug\net10.0\Programa_if4.csproj.CoreCompileInputs.cache
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\obj\Debug\net10.0\Programa_if4.dll
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\obj\Debug\net10.0\refint\Programa_if4.dll
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\obj\Debug\net10.0\Programa_if4.pdb
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\obj\Debug\net10.0\Programa_if4.genruntimeconfig.cache
+C:\Users\Keisi Delgado\source\repos\Programa_if4\Programa_if4\obj\Debug\net10.0\ref\Programa_if4.dll
