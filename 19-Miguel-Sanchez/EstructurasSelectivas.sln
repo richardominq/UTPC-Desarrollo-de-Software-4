@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasificacionDePaquete", "ClasificacionDePaquete\ClasificacionDePaquete.csproj", "{AB91B8A6-D00D-4C23-B5EB-EBB8D15F5111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlDeInventario", "ControlDeInventario\ControlDeInventario.csproj", "{0B1CC92B-5E00-434A-AD8B-47CC7B14364D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB91B8A6-D00D-4C23-B5EB-EBB8D15F5111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB91B8A6-D00D-4C23-B5EB-EBB8D15F5111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB91B8A6-D00D-4C23-B5EB-EBB8D15F5111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB91B8A6-D00D-4C23-B5EB-EBB8D15F5111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1CC92B-5E00-434A-AD8B-47CC7B14364D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1CC92B-5E00-434A-AD8B-47CC7B14364D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1CC92B-5E00-434A-AD8B-47CC7B14364D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1CC92B-5E00-434A-AD8B-47CC7B14364D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "P20_DS": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
