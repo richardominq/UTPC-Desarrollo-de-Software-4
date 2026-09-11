@@ -1,0 +1,4 @@
+******** FACTURA ELÉCTRICA ********
+Placa del vehiculo: XZI-963 
+la fecha Y hora es: 09/09/2026 09:24:46 
+Total a Pagar; $ 19.5

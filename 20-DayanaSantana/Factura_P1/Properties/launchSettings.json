@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Factura_P1": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

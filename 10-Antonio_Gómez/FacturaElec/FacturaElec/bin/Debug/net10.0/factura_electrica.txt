@@ -1,0 +1,7 @@
+******** FACTURA ELÉCTRICA ********
+Nombre del cliente: Jose Sanchez 
+la fecha es: 09/09/2026 14:11:39 
+El consumo es: 450.67 kWh
+Tipo de cliente: Residencial
+Subtotal de la cuenta : $ 67.6005 
+Total a Pagar; $ 67.67049999999999
