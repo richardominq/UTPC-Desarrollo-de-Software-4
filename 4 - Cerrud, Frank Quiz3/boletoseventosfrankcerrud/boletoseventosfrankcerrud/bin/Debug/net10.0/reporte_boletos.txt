@@ -1,0 +1,9 @@
+REPORTE DE VENTA DE BOLETOS
+Fecha y hora de emisión: 10/09/2026 23:33:45
+
+Nombre del comprador: Frank Cerrud
+Cantidad de boletos: 5
+Categoría seleccionada: VIP
+Subtotal: 250
+Descuento aplicado: 30
+Total a pagar: 220

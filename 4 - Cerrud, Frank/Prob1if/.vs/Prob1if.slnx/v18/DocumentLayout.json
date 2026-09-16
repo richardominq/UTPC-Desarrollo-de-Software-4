@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\1 - Cerrud, Frank\\Prob1if\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90AD17-ACE1-455E-AAEA-93BF023EF7D3}|Prob1if\\Prob1if.csproj|c:\\users\\usuario\\onedrive\\documentos\\des soft 4\\1 - cerrud, frank\\prob1if\\prob1if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90AD17-ACE1-455E-AAEA-93BF023EF7D3}|Prob1if\\Prob1if.csproj|solutionrelative:prob1if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\1 - Cerrud, Frank\\Prob1if\\Prob1if\\Program.cs",
+              "RelativeDocumentMoniker": "Prob1if\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\1 - Cerrud, Frank\\Prob1if\\Prob1if\\Program.cs",
+              "RelativeToolTip": "Prob1if\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T13:31:27.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

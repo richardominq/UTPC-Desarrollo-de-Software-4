@@ -1,0 +1,14 @@
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\bin\Debug\net9.0\sistemacontrolenvios.exe
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\bin\Debug\net9.0\sistemacontrolenvios.deps.json
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\bin\Debug\net9.0\sistemacontrolenvios.runtimeconfig.json
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\bin\Debug\net9.0\sistemacontrolenvios.dll
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\bin\Debug\net9.0\sistemacontrolenvios.pdb
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\obj\Debug\net9.0\sistemacontrolenvios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\obj\Debug\net9.0\sistemacontrolenvios.AssemblyInfoInputs.cache
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\obj\Debug\net9.0\sistemacontrolenvios.AssemblyInfo.cs
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\obj\Debug\net9.0\sistemacontrolenvios.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\obj\Debug\net9.0\sistemacontrolenvios.dll
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\obj\Debug\net9.0\refint\sistemacontrolenvios.dll
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\obj\Debug\net9.0\sistemacontrolenvios.pdb
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\obj\Debug\net9.0\sistemacontrolenvios.genruntimeconfig.cache
+C:\Users\Estudiantes\Downloads\sistemacontrolenvios\obj\Debug\net9.0\ref\sistemacontrolenvios.dll

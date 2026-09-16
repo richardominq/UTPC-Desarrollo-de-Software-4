@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\bin\Debug\net10.0\Prob4Q2.exe
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\bin\Debug\net10.0\Prob4Q2.deps.json
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\bin\Debug\net10.0\Prob4Q2.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\bin\Debug\net10.0\Prob4Q2.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\bin\Debug\net10.0\Prob4Q2.pdb
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\obj\Debug\net10.0\Prob4Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\obj\Debug\net10.0\Prob4Q2.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\obj\Debug\net10.0\Prob4Q2.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\obj\Debug\net10.0\Prob4Q2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\obj\Debug\net10.0\Prob4Q2.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\obj\Debug\net10.0\refint\Prob4Q2.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\obj\Debug\net10.0\Prob4Q2.pdb
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\obj\Debug\net10.0\Prob4Q2.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\Prob4Q2\Prob4Q2\obj\Debug\net10.0\ref\Prob4Q2.dll
