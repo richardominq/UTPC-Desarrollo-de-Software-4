@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\4 - Cerrud, Frank Q2\\estacionamientofrankcerrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C0AE67-54DC-41EC-835F-0D27EC0526A5}|estacionamientofrankcerrud\\estacionamientofrankcerrud.csproj|c:\\users\\usuario\\onedrive\\documentos\\des soft 4\\4 - cerrud, frank q2\\estacionamientofrankcerrud\\estacionamientofrankcerrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C0AE67-54DC-41EC-835F-0D27EC0526A5}|estacionamientofrankcerrud\\estacionamientofrankcerrud.csproj|solutionrelative:estacionamientofrankcerrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\4 - Cerrud, Frank Q2\\estacionamientofrankcerrud\\estacionamientofrankcerrud\\Program.cs",
+              "RelativeDocumentMoniker": "estacionamientofrankcerrud\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\4 - Cerrud, Frank Q2\\estacionamientofrankcerrud\\estacionamientofrankcerrud\\Program.cs",
+              "RelativeToolTip": "estacionamientofrankcerrud\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwE0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T04:27:37.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

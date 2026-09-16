@@ -1,0 +1,9 @@
+REPORTE DE ESTACIONAMIENTO
+Fecha y hora de emisión: 10/09/2026 23:31:06
+
+Placa del vehículo: QE32FW
+Tipo de vehículo: Auto
+Cantidad de horas: 20
+Costo base: 30
+Descuento aplicado: 3
+Total a pagar: 27

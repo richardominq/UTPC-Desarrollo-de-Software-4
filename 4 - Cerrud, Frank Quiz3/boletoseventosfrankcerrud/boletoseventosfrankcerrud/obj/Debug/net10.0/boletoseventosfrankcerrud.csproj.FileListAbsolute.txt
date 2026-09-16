@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\bin\Debug\net10.0\boletoseventosfrankcerrud.exe
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\bin\Debug\net10.0\boletoseventosfrankcerrud.deps.json
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\bin\Debug\net10.0\boletoseventosfrankcerrud.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\bin\Debug\net10.0\boletoseventosfrankcerrud.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\bin\Debug\net10.0\boletoseventosfrankcerrud.pdb
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\obj\Debug\net10.0\boletoseventosfrankcerrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\obj\Debug\net10.0\boletoseventosfrankcerrud.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\obj\Debug\net10.0\boletoseventosfrankcerrud.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\obj\Debug\net10.0\boletoseventosfrankcerrud.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\obj\Debug\net10.0\boletoseventosfrankcerrud.sourcelink.json
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\obj\Debug\net10.0\boletoseventosfrankcerrud.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\obj\Debug\net10.0\refint\boletoseventosfrankcerrud.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\obj\Debug\net10.0\boletoseventosfrankcerrud.pdb
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\obj\Debug\net10.0\boletoseventosfrankcerrud.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Formativo1\boletoseventosfrankcerrud\boletoseventosfrankcerrud\obj\Debug\net10.0\ref\boletoseventosfrankcerrud.dll

@@ -1,0 +1,14 @@
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\bin\Debug\net9.0\identificadordiasemanaswitch.exe
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\bin\Debug\net9.0\identificadordiasemanaswitch.deps.json
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\bin\Debug\net9.0\identificadordiasemanaswitch.runtimeconfig.json
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\bin\Debug\net9.0\identificadordiasemanaswitch.dll
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\bin\Debug\net9.0\identificadordiasemanaswitch.pdb
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\obj\Debug\net9.0\identificadordiasemanaswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\obj\Debug\net9.0\identificadordiasemanaswitch.AssemblyInfoInputs.cache
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\obj\Debug\net9.0\identificadordiasemanaswitch.AssemblyInfo.cs
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\obj\Debug\net9.0\identificadordiasemanaswitch.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\obj\Debug\net9.0\identificadordiasemanaswitch.dll
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\obj\Debug\net9.0\refint\identificadordiasemanaswitch.dll
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\obj\Debug\net9.0\identificadordiasemanaswitch.pdb
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\obj\Debug\net9.0\identificadordiasemanaswitch.genruntimeconfig.cache
+C:\Users\Estudiantes\Downloads\identificadordiasemanaswitch\obj\Debug\net9.0\ref\identificadordiasemanaswitch.dll
