@@ -1,0 +1,16 @@
+id,nombre,edad,ciudad,profesion,salario,activo
+1,Ana García,28,Panamá,Ingeniera,2450.50,true
+2,Carlos Méndez,35,Colón,Contador,1980.00,true
+3,María López,24,David,Diseñadora,1750.75,false
+4,José Rodríguez,42,Santiago,Administrador,3200.00,true
+5,Laura Castillo,31,Chitré,Analista,2300.25,true
+6,Pedro Sánchez,39,Panamá,Programador,4100.00,true
+7,Sofía Herrera,27,David,Marketing,2150.50,false
+8,Diego Torres,45,Colón,Gerente,5200.00,true
+9,Valentina Cruz,22,Panamá,Estudiante,950.00,true
+10,Miguel Ríos,33,La Chorrera,Técnico,1850.00,false
+11,Isabel Moreno,29,Penonomé,Arquitecta,2750.80,true
+12,Andrés Vega,37,Panamá,Abogado,3900.00,true
+13,Daniela Flores,26,David,Enfermera,2100.00,true
+14,Ricardo Navarro,50,Santiago,Director,6100.50,false
+15,Camila Ortega,30,Chitré,Periodista,1950.25,true
