@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Entrada_al_cine_ Programa1Adalberto": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

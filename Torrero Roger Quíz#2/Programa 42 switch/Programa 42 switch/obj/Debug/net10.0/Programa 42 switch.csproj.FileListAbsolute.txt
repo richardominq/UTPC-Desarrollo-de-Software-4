@@ -1,0 +1,14 @@
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\bin\Debug\net10.0\Programa 42 switch.exe
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\bin\Debug\net10.0\Programa 42 switch.deps.json
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\bin\Debug\net10.0\Programa 42 switch.runtimeconfig.json
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\bin\Debug\net10.0\Programa 42 switch.dll
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\bin\Debug\net10.0\Programa 42 switch.pdb
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\obj\Debug\net10.0\Programa 42 switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\obj\Debug\net10.0\Programa 42 switch.AssemblyInfoInputs.cache
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\obj\Debug\net10.0\Programa 42 switch.AssemblyInfo.cs
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\obj\Debug\net10.0\Programa 42 switch.csproj.CoreCompileInputs.cache
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\obj\Debug\net10.0\Programa 42 switch.dll
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\obj\Debug\net10.0\refint\Programa 42 switch.dll
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\obj\Debug\net10.0\Programa 42 switch.pdb
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\obj\Debug\net10.0\Programa 42 switch.genruntimeconfig.cache
+C:\Users\rtorr\Documents\Quiz sof4 N2\Programa 42 switch\Programa 42 switch\obj\Debug\net10.0\ref\Programa 42 switch.dll

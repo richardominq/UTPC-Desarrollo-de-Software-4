@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "30_EvaluacionParaContratacion/1.0.0": {
+        "runtime": {
+          "30_EvaluacionParaContratacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "30_EvaluacionParaContratacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
