@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keisi Delgado\\source\\repos\\Programa_If2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFECF566-0447-FC90-1BFB-3D58A60BB172}|Programa_If2\\Programa_If2.csproj|c:\\users\\keisi delgado\\source\\repos\\programa_if2\\programa_if2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFECF566-0447-FC90-1BFB-3D58A60BB172}|Programa_If2\\Programa_If2.csproj|solutionrelative:programa_if2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Keisi Delgado\\source\\repos\\Programa_If2\\Programa_If2\\Program.cs",
+              "RelativeDocumentMoniker": "Programa_If2\\Program.cs",
+              "ToolTip": "C:\\Users\\Keisi Delgado\\source\\repos\\Programa_If2\\Programa_If2\\Program.cs",
+              "RelativeToolTip": "Programa_If2\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T00:30:32.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

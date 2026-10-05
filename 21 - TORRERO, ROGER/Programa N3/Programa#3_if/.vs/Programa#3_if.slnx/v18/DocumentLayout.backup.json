@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rtorr\\Documents\\Proyectos Sof4\\Programa#3_if\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9FF1BC-8B69-41FF-A144-FF643FEB8F63}|Programa#3_if\\Programa#3_if.csproj|c:\\users\\rtorr\\documents\\proyectos sof4\\programa#3_if\\programa#3_if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9FF1BC-8B69-41FF-A144-FF643FEB8F63}|Programa#3_if\\Programa#3_if.csproj|solutionrelative:programa#3_if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rtorr\\Documents\\Proyectos Sof4\\Programa#3_if\\Programa#3_if\\Program.cs",
+              "RelativeDocumentMoniker": "Programa#3_if\\Program.cs",
+              "ToolTip": "C:\\Users\\rtorr\\Documents\\Proyectos Sof4\\Programa#3_if\\Programa#3_if\\Program.cs",
+              "RelativeToolTip": "Programa#3_if\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T00:27:04.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

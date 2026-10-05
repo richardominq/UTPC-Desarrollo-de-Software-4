@@ -1,0 +1,14 @@
+C:\Users\corne\source\repos\Tienda_descuento\bin\Debug\net10.0\Tienda_descuento.exe
+C:\Users\corne\source\repos\Tienda_descuento\bin\Debug\net10.0\Tienda_descuento.deps.json
+C:\Users\corne\source\repos\Tienda_descuento\bin\Debug\net10.0\Tienda_descuento.runtimeconfig.json
+C:\Users\corne\source\repos\Tienda_descuento\bin\Debug\net10.0\Tienda_descuento.dll
+C:\Users\corne\source\repos\Tienda_descuento\bin\Debug\net10.0\Tienda_descuento.pdb
+C:\Users\corne\source\repos\Tienda_descuento\obj\Debug\net10.0\Tienda_descuento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\source\repos\Tienda_descuento\obj\Debug\net10.0\Tienda_descuento.AssemblyInfoInputs.cache
+C:\Users\corne\source\repos\Tienda_descuento\obj\Debug\net10.0\Tienda_descuento.AssemblyInfo.cs
+C:\Users\corne\source\repos\Tienda_descuento\obj\Debug\net10.0\Tienda_descuento.csproj.CoreCompileInputs.cache
+C:\Users\corne\source\repos\Tienda_descuento\obj\Debug\net10.0\Tienda_descuento.dll
+C:\Users\corne\source\repos\Tienda_descuento\obj\Debug\net10.0\refint\Tienda_descuento.dll
+C:\Users\corne\source\repos\Tienda_descuento\obj\Debug\net10.0\Tienda_descuento.pdb
+C:\Users\corne\source\repos\Tienda_descuento\obj\Debug\net10.0\Tienda_descuento.genruntimeconfig.cache
+C:\Users\corne\source\repos\Tienda_descuento\obj\Debug\net10.0\ref\Tienda_descuento.dll

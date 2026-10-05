@@ -1,0 +1,14 @@
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\obj\Debug\net10.0\Programa_Switch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\obj\Debug\net10.0\Programa_Switch2.AssemblyInfoInputs.cache
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\obj\Debug\net10.0\Programa_Switch2.AssemblyInfo.cs
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\obj\Debug\net10.0\Programa_Switch2.csproj.CoreCompileInputs.cache
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\bin\Debug\net10.0\Programa_Switch2.exe
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\bin\Debug\net10.0\Programa_Switch2.deps.json
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\bin\Debug\net10.0\Programa_Switch2.runtimeconfig.json
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\bin\Debug\net10.0\Programa_Switch2.dll
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\bin\Debug\net10.0\Programa_Switch2.pdb
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\obj\Debug\net10.0\Programa_Switch2.dll
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\obj\Debug\net10.0\refint\Programa_Switch2.dll
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\obj\Debug\net10.0\Programa_Switch2.pdb
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\obj\Debug\net10.0\Programa_Switch2.genruntimeconfig.cache
+C:\Users\Keisi Delgado\source\repos\Programa_Switch2\Programa_Switch2\obj\Debug\net10.0\ref\Programa_Switch2.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "P2_If": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

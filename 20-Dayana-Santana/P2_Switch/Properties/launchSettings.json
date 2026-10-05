@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "P2_Switch": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

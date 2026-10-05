@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\bin\Debug\net10.0\Programa #1_IfElse.exe
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\bin\Debug\net10.0\Programa #1_IfElse.deps.json
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\bin\Debug\net10.0\Programa #1_IfElse.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\bin\Debug\net10.0\Programa #1_IfElse.dll
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\bin\Debug\net10.0\Programa #1_IfElse.pdb
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\obj\Debug\net10.0\Programa #1_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\obj\Debug\net10.0\Programa #1_IfElse.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\obj\Debug\net10.0\Programa #1_IfElse.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\obj\Debug\net10.0\Programa #1_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\obj\Debug\net10.0\Programa #1_IfElse.dll
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\obj\Debug\net10.0\refint\Programa #1_IfElse.dll
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\obj\Debug\net10.0\Programa #1_IfElse.pdb
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\obj\Debug\net10.0\Programa #1_IfElse.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\AÑOII_SEGUNDO_SEMESTRE\SOFTWARE IV\Programas\Programa #1_Software_IV\Programa #1_IfElse\obj\Debug\net10.0\ref\Programa #1_IfElse.dll

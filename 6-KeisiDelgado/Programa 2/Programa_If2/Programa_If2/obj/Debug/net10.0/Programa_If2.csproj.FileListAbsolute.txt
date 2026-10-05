@@ -1,0 +1,14 @@
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\obj\Debug\net10.0\Programa_If2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\obj\Debug\net10.0\Programa_If2.AssemblyInfoInputs.cache
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\obj\Debug\net10.0\Programa_If2.AssemblyInfo.cs
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\obj\Debug\net10.0\Programa_If2.csproj.CoreCompileInputs.cache
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\bin\Debug\net10.0\Programa_If2.exe
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\bin\Debug\net10.0\Programa_If2.deps.json
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\bin\Debug\net10.0\Programa_If2.runtimeconfig.json
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\bin\Debug\net10.0\Programa_If2.dll
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\bin\Debug\net10.0\Programa_If2.pdb
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\obj\Debug\net10.0\Programa_If2.dll
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\obj\Debug\net10.0\refint\Programa_If2.dll
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\obj\Debug\net10.0\Programa_If2.pdb
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\obj\Debug\net10.0\Programa_If2.genruntimeconfig.cache
+C:\Users\Keisi Delgado\source\repos\Programa_If2\Programa_If2\obj\Debug\net10.0\ref\Programa_If2.dll

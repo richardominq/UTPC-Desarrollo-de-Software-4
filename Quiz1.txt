@@ -1,0 +1,110 @@
+ASIGNACIÓN PRÁCTICA: ESTRUCTURAS SELECTIVAS EN C#
+
+Desarrolle cuatro programas independientes en C# con el propósito de practicar el uso de estructuras selectivas y operadores lógicos. En los programas deberá utilizar, según corresponda, las sentencias if, los operadores lógicos AND (&&) y OR (||), así como la estructura switch o switch expression (pattern matching) para evaluar diferentes opciones ingresadas por el usuario.
+Cada programa deberá solicitar los datos mediante teclado, almacenarlos en variables apropiadas, realizar las condiciones indicadas y mostrar claramente los resultados en pantalla.
+
+PROGRAMA 1. DESCUENTO EN UNA TIENDA
+
+Una tienda desea implementar un programa para determinar si un cliente puede recibir un descuento especial. Solicite al usuario el monto total de la compra y el tipo de cliente, utilizando las siguientes opciones:
+
+1 = Regular
+2 = Frecuente
+3 = VIP
+
+Utilice una estructura switch para identificar el tipo de cliente seleccionado y mostrar su descripción.
+Posteriormente, utilizando una sentencia if combinada con los operadores lógicos AND (&&) y OR (||), determine si el cliente puede recibir el descuento.
+Si la compra es mayor de $100 y el cliente pertenece al tipo 2 (Frecuente) o al tipo 3 (VIP), calcule y muestre el monto final aplicando un 15 % de descuento.
+La condición deberá considerar simultáneamente el monto de la compra y el tipo de cliente.
+De lo contrario, informe que el cliente no recibe descuento y muestre el monto original que deberá pagar.
+
+PROGRAMA 2. APROBACIÓN DE ESTUDIANTE
+
+Desarrolle un programa que permita determinar si un estudiante aprueba una asignatura según su rendimiento académico, porcentaje de asistencia y tipo de estudiante.
+Solicite al usuario los siguientes datos:
+
+* Nota final.
+* Porcentaje de asistencia.
+* Tipo de estudiante.
+
+Para el tipo de estudiante utilice:
+
+1 = Regular
+2 = Becado
+3 = Intercambio
+
+Utilice una estructura switch para identificar y mostrar el tipo de estudiante seleccionado.
+Posteriormente, mediante una sentencia if, combine las condiciones necesarias utilizando los operadores AND (&&) y OR (||).
+Si la nota final es mayor o igual a 71, la asistencia es mayor o igual al 80 % y el estudiante seleccionó como tipo de estudiante la opción 1, 2 o 3, muestre el mensaje:
+
+"Aprobado"
+
+junto con la nota obtenida y el tipo de estudiante seleccionado.
+La validación del tipo de estudiante deberá realizarse utilizando el operador lógico OR (||), mientras que las demás condiciones deberán relacionarse utilizando AND (&&).
+De lo contrario, muestre el mensaje:
+
+"No aprobado"
+
+junto con su nota final.
+
+PROGRAMA 3. ENTRADA A UN EVENTO
+
+Un sistema necesita verificar si una persona cumple las condiciones necesarias para ingresar a un evento.
+Solicite al usuario:
+
+* Edad.
+* Cantidad de boletos disponibles.
+* Tipo de entrada.
+
+Para el tipo de entrada utilice las siguientes opciones:
+
+1 = General
+2 = VIP
+3 = Invitado
+
+Utilice una estructura switch para identificar el tipo de entrada seleccionado y mostrar su correspondiente descripción.
+Posteriormente, utilice una sentencia if combinando los operadores lógicos AND (&&) y OR (||).
+Si la persona tiene 18 años o más, posee al menos un boleto y seleccionó como tipo de entrada la opción 1, 2 o 3, muestre:
+
+"Entrada autorizada"
+
+junto con el tipo de entrada seleccionado.
+La condición deberá comprobar que las tres condiciones necesarias se cumplan: edad mínima, disponibilidad de boletos y que el tipo de entrada sea una de las opciones válidas.
+De lo contrario, muestre:
+
+"Entrada rechazada"
+
+indicando que la persona no cumple con las condiciones establecidas.
+
+PROGRAMA 4. DETERMINAR EL MAYOR DE CUATRO NÚMEROS
+
+Desarrolle un programa que permita determinar cuál es el número mayor entre cuatro valores diferentes ingresados por el usuario.
+Solicite cuatro números diferentes y almacene cada uno en una variable independiente.
+Para determinar el número mayor, utilice sentencias if y el operador lógico AND (&&), comparando cada número con los otros tres.
+Por ejemplo, para determinar si el primer número es el mayor deberá comprobar simultáneamente que:
+
+Número 1 > Número 2 AND Número 1 > Número 3 AND Número 1 > Número 4.
+
+Realice las comparaciones correspondientes para los cuatro números.
+Al finalizar, el programa deberá mostrar:
+
+"El número mayor es:"
+
+seguido del valor correspondiente.
+
+Adicionalmente, utilice una estructura switch o switch expression con pattern matching para identificar cuál de las cuatro posiciones contiene el número mayor y mostrar, por ejemplo:
+"El número mayor corresponde al número 1 ingresado."
+No utilice funciones que determinen automáticamente el máximo, tales como Math.Max(), ni utilice estructuras repetitivas como for, while o do-while.
+
+CONDICIONES GENERALES DE LA ACTIVIDAD
+
+Los cuatro programas deberán desarrollarse en C# como aplicaciones de consola.
+Se deberá evidenciar el uso correcto de:
+
+if
+AND (&&)
+OR (||)
+switch / pattern matching
+
+No se deben utilizar ciclos o estructuras repetitivas para resolver estos ejercicios.
+
+Los datos deberán ser introducidos por el usuario mediante teclado y cada programa deberá presentar mensajes claros que permitan identificar los datos ingresados, las decisiones tomadas y el resultado final.

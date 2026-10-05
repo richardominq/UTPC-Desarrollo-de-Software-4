@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "P3_if": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

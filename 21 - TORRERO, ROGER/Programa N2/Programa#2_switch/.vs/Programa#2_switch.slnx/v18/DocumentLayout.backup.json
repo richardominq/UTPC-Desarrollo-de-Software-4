@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rtorr\\Documents\\Proyectos Sof4\\Programa#2_switch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{988B0FBE-5D1F-41C1-AE42-244DE15BDCCC}|Programa#2_switch\\Programa#2_switch.csproj|c:\\users\\rtorr\\documents\\proyectos sof4\\programa#2_switch\\programa#2_switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988B0FBE-5D1F-41C1-AE42-244DE15BDCCC}|Programa#2_switch\\Programa#2_switch.csproj|solutionrelative:programa#2_switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rtorr\\Documents\\Proyectos Sof4\\Programa#2_switch\\Programa#2_switch\\Program.cs",
+              "RelativeDocumentMoniker": "Programa#2_switch\\Program.cs",
+              "ToolTip": "C:\\Users\\rtorr\\Documents\\Proyectos Sof4\\Programa#2_switch\\Programa#2_switch\\Program.cs",
+              "RelativeToolTip": "Programa#2_switch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T00:17:15.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\bin\Debug\net10.0\Programa1.exe
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\bin\Debug\net10.0\Programa1.deps.json
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\bin\Debug\net10.0\Programa1.runtimeconfig.json
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\bin\Debug\net10.0\Programa1.dll
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\bin\Debug\net10.0\Programa1.pdb
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\obj\Debug\net10.0\Programa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\obj\Debug\net10.0\Programa1.AssemblyInfoInputs.cache
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\obj\Debug\net10.0\Programa1.AssemblyInfo.cs
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\obj\Debug\net10.0\Programa1.csproj.CoreCompileInputs.cache
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\obj\Debug\net10.0\Programa1.dll
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\obj\Debug\net10.0\refint\Programa1.dll
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\obj\Debug\net10.0\Programa1.pdb
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\obj\Debug\net10.0\Programa1.genruntimeconfig.cache
+C:\Users\Keisi Delgado\source\repos\Programa1\Programa1\obj\Debug\net10.0\ref\Programa1.dll
