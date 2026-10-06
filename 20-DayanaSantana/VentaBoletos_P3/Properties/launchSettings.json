@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VentaBoletos_P3": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

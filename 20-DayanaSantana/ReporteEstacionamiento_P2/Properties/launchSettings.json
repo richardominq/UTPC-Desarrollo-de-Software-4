@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ReporteEstacionamiento_P2": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

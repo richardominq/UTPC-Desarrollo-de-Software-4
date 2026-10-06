@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\bin\Debug\net10.0\estacionamientofrankcerrud.exe
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\bin\Debug\net10.0\estacionamientofrankcerrud.deps.json
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\bin\Debug\net10.0\estacionamientofrankcerrud.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\bin\Debug\net10.0\estacionamientofrankcerrud.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\bin\Debug\net10.0\estacionamientofrankcerrud.pdb
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\obj\Debug\net10.0\estacionamientofrankcerrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\obj\Debug\net10.0\estacionamientofrankcerrud.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\obj\Debug\net10.0\estacionamientofrankcerrud.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\obj\Debug\net10.0\estacionamientofrankcerrud.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\obj\Debug\net10.0\estacionamientofrankcerrud.sourcelink.json
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\obj\Debug\net10.0\estacionamientofrankcerrud.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\obj\Debug\net10.0\refint\estacionamientofrankcerrud.dll
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\obj\Debug\net10.0\estacionamientofrankcerrud.pdb
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\obj\Debug\net10.0\estacionamientofrankcerrud.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\Des Soft 4\4 - Cerrud, Frank Q2\estacionamientofrankcerrud\estacionamientofrankcerrud\obj\Debug\net10.0\ref\estacionamientofrankcerrud.dll
