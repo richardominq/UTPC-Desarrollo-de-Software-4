@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\apichistesinterfaz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9637351F-3F6A-425C-CB70-900528129357}|apichistesinterfaz\\apichistesinterfaz.csproj|c:\\users\\usuario\\onedrive\\documentos\\des soft 4\\apichistesinterfaz\\apichistesinterfaz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9637351F-3F6A-425C-CB70-900528129357}|apichistesinterfaz\\apichistesinterfaz.csproj|solutionrelative:apichistesinterfaz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9637351F-3F6A-425C-CB70-900528129357}|apichistesinterfaz\\apichistesinterfaz.csproj|c:\\users\\usuario\\onedrive\\documentos\\des soft 4\\apichistesinterfaz\\apichistesinterfaz\\jokeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9637351F-3F6A-425C-CB70-900528129357}|apichistesinterfaz\\apichistesinterfaz.csproj|solutionrelative:apichistesinterfaz\\jokeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9637351F-3F6A-425C-CB70-900528129357}|apichistesinterfaz\\apichistesinterfaz.csproj|c:\\users\\usuario\\onedrive\\documentos\\des soft 4\\apichistesinterfaz\\apichistesinterfaz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9637351F-3F6A-425C-CB70-900528129357}|apichistesinterfaz\\apichistesinterfaz.csproj|solutionrelative:apichistesinterfaz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C5641C-E64B-45B7-A062-174CA9362D29}|apichistesinterfaz\\apichistesinterfaz.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\apichistesinterfaz\\apichistesinterfaz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62C5641C-E64B-45B7-A062-174CA9362D29}|apichistesinterfaz\\apichistesinterfaz.csproj|solutionrelative:apichistesinterfaz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9637351F-3F6A-425C-CB70-900528129357}|apichistesinterfaz\\apichistesinterfaz.csproj|c:\\users\\usuario\\onedrive\\documentos\\des soft 4\\apichistesinterfaz\\apichistesinterfaz\\chisteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9637351F-3F6A-425C-CB70-900528129357}|apichistesinterfaz\\apichistesinterfaz.csproj|solutionrelative:apichistesinterfaz\\chisteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\apichistesinterfaz\\apichistesinterfaz\\Form1.cs",
+              "RelativeDocumentMoniker": "apichistesinterfaz\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\apichistesinterfaz\\apichistesinterfaz\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "apichistesinterfaz\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T13:41:35.478Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChisteItem.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\apichistesinterfaz\\apichistesinterfaz\\ChisteItem.cs",
+              "RelativeDocumentMoniker": "apichistesinterfaz\\ChisteItem.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\apichistesinterfaz\\apichistesinterfaz\\ChisteItem.cs",
+              "RelativeToolTip": "apichistesinterfaz\\ChisteItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:26:02.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JokeService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\apichistesinterfaz\\apichistesinterfaz\\JokeService.cs",
+              "RelativeDocumentMoniker": "apichistesinterfaz\\JokeService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\apichistesinterfaz\\apichistesinterfaz\\JokeService.cs",
+              "RelativeToolTip": "apichistesinterfaz\\JokeService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:25:33.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\apichistesinterfaz\\apichistesinterfaz\\Form1.cs",
+              "RelativeDocumentMoniker": "apichistesinterfaz\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\apichistesinterfaz\\apichistesinterfaz\\Form1.cs",
+              "RelativeToolTip": "apichistesinterfaz\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswMUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:06:00.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\apichistesinterfaz\\apichistesinterfaz\\Form1.cs",
+              "RelativeDocumentMoniker": "apichistesinterfaz\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\apichistesinterfaz\\apichistesinterfaz\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "apichistesinterfaz\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T00:36:32.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
