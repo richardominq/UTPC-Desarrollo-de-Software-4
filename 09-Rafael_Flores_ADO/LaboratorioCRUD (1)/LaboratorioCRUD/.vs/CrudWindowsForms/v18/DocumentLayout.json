@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\Downloads\\LaboratorioCRUD (1)\\LaboratorioCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88B18717-E0A6-46BC-8259-96E9010B91BC}|CrudWindowsForms\\CrudWindowsForms.csproj|c:\\users\\rafae\\downloads\\laboratoriocrud (1)\\laboratoriocrud\\crudwindowsforms\\peopledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B18717-E0A6-46BC-8259-96E9010B91BC}|CrudWindowsForms\\CrudWindowsForms.csproj|solutionrelative:crudwindowsforms\\peopledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B18717-E0A6-46BC-8259-96E9010B91BC}|CrudWindowsForms\\CrudWindowsForms.csproj|C:\\Users\\rafae\\Downloads\\LaboratorioCRUD (1)\\LaboratorioCRUD\\crudwindowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B18717-E0A6-46BC-8259-96E9010B91BC}|CrudWindowsForms\\CrudWindowsForms.csproj|solutionrelative:crudwindowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B18717-E0A6-46BC-8259-96E9010B91BC}|CrudWindowsForms\\CrudWindowsForms.csproj|C:\\Users\\rafae\\Downloads\\LaboratorioCRUD (1)\\LaboratorioCRUD\\crudwindowsforms\\frmnuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88B18717-E0A6-46BC-8259-96E9010B91BC}|CrudWindowsForms\\CrudWindowsForms.csproj|solutionrelative:crudwindowsforms\\frmnuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B18717-E0A6-46BC-8259-96E9010B91BC}|CrudWindowsForms\\CrudWindowsForms.csproj|C:\\Users\\rafae\\Downloads\\LaboratorioCRUD (1)\\LaboratorioCRUD\\crudwindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88B18717-E0A6-46BC-8259-96E9010B91BC}|CrudWindowsForms\\CrudWindowsForms.csproj|solutionrelative:crudwindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmNuevo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\LaboratorioCRUD (1)\\LaboratorioCRUD\\CrudWindowsForms\\FrmNuevo.cs",
+              "RelativeDocumentMoniker": "CrudWindowsForms\\FrmNuevo.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\LaboratorioCRUD (1)\\LaboratorioCRUD\\CrudWindowsForms\\FrmNuevo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CrudWindowsForms\\FrmNuevo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:03:03.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\LaboratorioCRUD (1)\\LaboratorioCRUD\\CrudWindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "CrudWindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\LaboratorioCRUD (1)\\LaboratorioCRUD\\CrudWindowsForms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CrudWindowsForms\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:03:01.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleDB.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\LaboratorioCRUD (1)\\LaboratorioCRUD\\CrudWindowsForms\\PeopleDB.cs",
+              "RelativeDocumentMoniker": "CrudWindowsForms\\PeopleDB.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\LaboratorioCRUD (1)\\LaboratorioCRUD\\CrudWindowsForms\\PeopleDB.cs",
+              "RelativeToolTip": "CrudWindowsForms\\PeopleDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:02:22.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\LaboratorioCRUD (1)\\LaboratorioCRUD\\CrudWindowsForms\\Program.cs",
+              "RelativeDocumentMoniker": "CrudWindowsForms\\Program.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\LaboratorioCRUD (1)\\LaboratorioCRUD\\CrudWindowsForms\\Program.cs",
+              "RelativeToolTip": "CrudWindowsForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:02:18.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

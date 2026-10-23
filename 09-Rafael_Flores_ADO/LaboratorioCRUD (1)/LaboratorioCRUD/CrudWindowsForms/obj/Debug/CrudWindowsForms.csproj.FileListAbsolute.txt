@@ -1,0 +1,10 @@
+C:\Users\rafae\OneDrive\Documentos\ChatGPT\SOFTWARE_IV_CRUD\Entrega\Laboratorio-CRUD-CSharp-SQLServer\LaboratorioCRUD\CrudWindowsForms\bin\Debug\CrudWindowsForms.exe.config
+C:\Users\rafae\OneDrive\Documentos\ChatGPT\SOFTWARE_IV_CRUD\Entrega\Laboratorio-CRUD-CSharp-SQLServer\LaboratorioCRUD\CrudWindowsForms\bin\Debug\CrudWindowsForms.exe
+C:\Users\rafae\OneDrive\Documentos\ChatGPT\SOFTWARE_IV_CRUD\Entrega\Laboratorio-CRUD-CSharp-SQLServer\LaboratorioCRUD\CrudWindowsForms\bin\Debug\CrudWindowsForms.pdb
+C:\Users\rafae\OneDrive\Documentos\ChatGPT\SOFTWARE_IV_CRUD\Entrega\Laboratorio-CRUD-CSharp-SQLServer\LaboratorioCRUD\CrudWindowsForms\obj\Debug\CrudWindowsForms.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\ChatGPT\SOFTWARE_IV_CRUD\Entrega\Laboratorio-CRUD-CSharp-SQLServer\LaboratorioCRUD\CrudWindowsForms\obj\Debug\CrudWindowsForms.Form1.resources
+C:\Users\rafae\OneDrive\Documentos\ChatGPT\SOFTWARE_IV_CRUD\Entrega\Laboratorio-CRUD-CSharp-SQLServer\LaboratorioCRUD\CrudWindowsForms\obj\Debug\CrudWindowsForms.FrmNuevo.resources
+C:\Users\rafae\OneDrive\Documentos\ChatGPT\SOFTWARE_IV_CRUD\Entrega\Laboratorio-CRUD-CSharp-SQLServer\LaboratorioCRUD\CrudWindowsForms\obj\Debug\CrudWindowsForms.csproj.GenerateResource.cache
+C:\Users\rafae\OneDrive\Documentos\ChatGPT\SOFTWARE_IV_CRUD\Entrega\Laboratorio-CRUD-CSharp-SQLServer\LaboratorioCRUD\CrudWindowsForms\obj\Debug\CrudWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\ChatGPT\SOFTWARE_IV_CRUD\Entrega\Laboratorio-CRUD-CSharp-SQLServer\LaboratorioCRUD\CrudWindowsForms\obj\Debug\CrudWindowsForms.exe
+C:\Users\rafae\OneDrive\Documentos\ChatGPT\SOFTWARE_IV_CRUD\Entrega\Laboratorio-CRUD-CSharp-SQLServer\LaboratorioCRUD\CrudWindowsForms\obj\Debug\CrudWindowsForms.pdb
