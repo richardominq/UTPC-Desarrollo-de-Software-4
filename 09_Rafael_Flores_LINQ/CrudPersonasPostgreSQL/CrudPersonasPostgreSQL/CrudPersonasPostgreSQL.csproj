@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>CrudPersonasPostgreSQL</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="appsettings.json" CopyToOutputDirectory="PreserveNewest" />
+    <Compile Update="Forms\Form1.cs"><SubType>Form</SubType></Compile>
+    <Compile Update="Forms\Form1.Designer.cs"><DependentUpon>Form1.cs</DependentUpon></Compile>
+    <Compile Update="Forms\FrmPersona.cs"><SubType>Form</SubType></Compile>
+    <Compile Update="Forms\FrmPersona.Designer.cs"><DependentUpon>FrmPersona.cs</DependentUpon></Compile>
+    <EmbeddedResource Update="Forms\Form1.resx"><DependentUpon>Form1.cs</DependentUpon></EmbeddedResource>
+    <EmbeddedResource Update="Forms\FrmPersona.resx"><DependentUpon>FrmPersona.cs</DependentUpon></EmbeddedResource>
+  </ItemGroup>
+</Project>
